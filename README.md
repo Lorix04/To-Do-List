@@ -1,5 +1,5 @@
 # [To-Do-List]()
-![Screenshot del Progetto](/dadi.PNG)
+![Screenshot del Progetto](/public/exemple.png)
 
 Benvenuto nel mio gioco di dadi! In questo gioco, l'utente si sfida contro un bot. 
 Ogni giocatore tira un dado e chi ottiene il valore più alto vince la partita.
