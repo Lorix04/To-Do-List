@@ -15,6 +15,7 @@ In questo progetto To-Do-List l'utente ha la possibilità di poter inserire la l
 5. **Vedi attività completate**: Mostra le attività completate.
 
 **Tecnologie Usate:**
+
 [![My Skills](https://skillicons.dev/icons?i=js,css,react,bootstrap,git)]()
 
 **Bug da Risolvere / Funzionalità da Aggiungere:** 
