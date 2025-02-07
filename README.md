@@ -1,4 +1,4 @@
-# [Gioco Dadi](http://www.lorenzocerantonio5bi.altervista.org/dadi/index.html)
+# [To-Do-List]()
 ![Screenshot del Progetto 1](/dadi.PNG)
 
 Benvenuto nel mio gioco di dadi! In questo gioco, l'utente si sfida contro un bot. 
