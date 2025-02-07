@@ -1,16 +1,25 @@
 # [To-Do-List]()
 ![Screenshot del Progetto](/public/exemple.png)
 
-Benvenuto nel mio gioco di dadi! In questo gioco, l'utente si sfida contro un bot. 
-Ogni giocatore tira un dado e chi ottiene il valore più alto vince la partita.
+In questo progetto To-Do-List l'utente ha la possibilità di poter inserire la lista delle attività fare.
 
-1. **Lancia il dado**: Il tuo dado verrà lanciato e verrà mostrato il risultato.
-2. **Il Bot lancia i dadi**: Il bot lancerà i dadi e verrà mostrato il suo risultato.
-3. **Risultato**: Dopo che entrambi i dadi sono stati lanciati, verrà confrontato il valore dei dadi:
-   - Se il tuo dado è più alto, vinci!
-   - Se il dado del bot è più alto, il bot vince!
-   - Se i dadi sono uguali, è un pareggio!
+1. **Input Attività**: Inserire il nome della attività.
+2. **Data e Ora Attività (Opzionale)**: Inserire la data e l'orario della attività. [Giorno][Mese][Anno] [Ore][Minuti][Secondi] 
+3. **Lista delle Attività**: Dopo che i dati della attività sono state inserite verranno mostrate:
+   - Nome: Il nome della attività
+   - Creato: Data creato l'attività. [Giorno][Mese][Anno] [Ore][Minuti][Secondi] 
+   - La Notifica (Opzionale): Aggiungi la data e l'orario della notifica.
+   - Bottone Modifica: Modifica il nome e aggiunge/modifica la notifica.
+   - Bottone Elimina: Elimina una attività.
+4. **Attività Completata**: Clicca sulla attività per completare attività
+5. **Vedi attività completate**: Mostra le attività completate.
 
-**Tecnologie Usate:** HTML/JS/CSS
+**Tecnologie Usate:**
+[![My Skills](https://skillicons.dev/icons?i=js,css,react,bootstrap,git)]()
 
-**Link Sito:** [Clicca qui](http://www.lorenzocerantonio5bi.altervista.org/dadi/index.html)
+**Bug da Risolvere / Funzionalità da Aggiungere:** 
+- [Bug]: Se la lista è stata compeltata mostra i bottoni tagliati: Modifica / Elimina / Salva / Annulla
+- [Funzionalità]: Vorrei che l'utente possa scegliere di elencare le task per nome (dec/c)rescente/ notifica (dec/c)rescente / senza notifica / creato (dec/c)rescente
+
+
+**Data Modifica**: 07/02/2025
