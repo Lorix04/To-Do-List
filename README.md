@@ -1,18 +1,19 @@
 # [To-Do-List]()
 ![Screenshot del Progetto](/public/exemple.png)
 
-In questo progetto To-Do-List l'utente ha la possibilità di poter inserire la lista delle attività fare.
+In questo progetto **To-Do List**, l'utente può gestire le proprie attività quotidiane con una serie di funzionalità intuitive.
 
-1. **Input Attività**: Inserire il nome della attività.
-2. **Data e Ora Attività (Opzionale)**: Inserire la data e l'orario della attività. [Giorno][Mese][Anno] [Ore][Minuti][Secondi] 
-3. **Lista delle Attività**: Dopo che i dati della attività sono state inserite verranno mostrate:
-   - Nome: Il nome della attività
-   - Creato: Data creato l'attività. [Giorno][Mese][Anno] [Ore][Minuti][Secondi] 
-   - La Notifica (Opzionale): Aggiungi la data e l'orario della notifica.
-   - Bottone Modifica: Modifica il nome e aggiunge/modifica la notifica.
-   - Bottone Elimina: Elimina una attività.
-4. **Attività Completata**: Clicca sulla attività per completare attività
-5. **Vedi attività completate**: Mostra le attività completate.
+1. **Input Attività**: L'utente può inserire il nome dell'attività da fare.
+2. **Data e Ora Attività (Opzionale)**: È possibile aggiungere una data e ora per l'attività.
+   (Il formato richiesto: [Giorno][Mese][Anno] [Ore][Minuti][Secondi] )*
+4. **Lista delle Attività**: Dopo aver inserito i dettagli, le attività verranno mostrate nella lista con le seguenti informazioni:
+   - **Nome**: Il nome dell'attività.
+   - **Creato**: La data e ora di creazione dell'attività.
+   - **Notifica (Opzionale)**: La data e l'ora per la notifica dell'attività.
+   - **Bottone Modifica**: Permette di modificare il nome e/o la notifica dell'attività.
+   - **Bottone Elimina**: Permette di eliminare l'attività.
+5. **Attività Completata**: Cliccando su un'attività, l'utente può marcarla come completata.
+6. **Visualizza Attività Completate**: Una sezione che mostra le attività completate.
 
 **Tecnologie Usate:**
 
