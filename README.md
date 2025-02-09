@@ -20,8 +20,10 @@ In questo progetto **To-Do List**, l'utente può gestire le proprie attività qu
 [![My Skills](https://skillicons.dev/icons?i=js,css,react,bootstrap,git)]()
 
 **Bug da Risolvere / Funzionalità da Aggiungere:** 
+
 [Bug]: 
 - Se la lista è stata compeltata mostra i bottoni tagliati: Salva / Annulla
+
 [Funzionalità]: 
 - Vorrei che l'utente possa scegliere di elencare le task per nome (dec/c)rescente/ notifica (dec/c)rescente / senza notifica / creato (dec/c)rescente
 - Rimuovere icona nella pagina del sito
